@@ -1,0 +1,72 @@
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\dp\Documents\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.Core.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Contracts.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Optimization.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\WebGrease.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\WebMatrix.Data.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\WebMatrix.WebData.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Mono.Math.dll
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.Core.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\WebMatrix.Data.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\WebMatrix.WebData.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\dp\Documents\Visual Studio 2017\MvcMusicStore-Completed\MvcMusicStore\bin\Mono.Math.xml
